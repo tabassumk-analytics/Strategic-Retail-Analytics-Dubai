@@ -13,8 +13,7 @@ This project presents a specialized analytical framework developed to deconstruc
 
 ## Technical Methodology & Architecture
 * **Data Engineering**: Core metrics were engineered using **Common Table Expressions (CTEs)** and conditional aggregation to maintain logic transparency and calculation accuracy for complex percentages.
-* **Advanced Analytics**: Implementation of **dual-axis time-series visualizations** and scatter plot correlations to validate the impact of exogenous variables (Heat Index) on commercial outcomes.
-* **UI/UX Strategy**: The dashboard utilizes a **Z-pattern executive layout**, prioritizing high-level KPIs at the top-left to align with senior leadership's scanning patterns.
+* **Advanced Analytics**: Implementation of **time-series visualizations** and scatter plot correlations to validate the impact of exogenous variables (Heat Index) on commercial outcomes.
 * **Interactivity Framework**: Dynamic Dashboard Actions were integrated to allow for seamless cross-filtering between temporal trends and categorical performance.
 
 
