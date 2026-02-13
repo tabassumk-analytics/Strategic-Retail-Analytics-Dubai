@@ -45,4 +45,4 @@ The findings confirm that premium retail in the UAE is highly sensitive to envir
 
 ## VII. Repository Contents
 * **SQL Logic**: `retail_kpi_analysis.sql` 
-* **Interactive Visualization**: [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/tabassum.khan/viz/StrategicRetailPerformanceConversionHub/StrategicRetailPerformanceConversionHub)
+* **Interactive Visualization**: [View Dashboard on Tableau Public]https://public.tableau.com/app/profile/tabassum.k/viz/StrategicRetailPerformanceConversionHub/RetailIntelligenceMatrix#2
