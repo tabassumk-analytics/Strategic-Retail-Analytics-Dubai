@@ -15,6 +15,7 @@ This project presents a specialized analytical framework developed to deconstruc
 * **Data Engineering**: Core metrics were engineered using **Common Table Expressions (CTEs)** and conditional aggregation to maintain logic transparency and calculation accuracy for complex percentages.
 * **Advanced Analytics**: Implementation of **time-series visualizations** and scatter plot correlations to validate the impact of exogenous variables (Heat Index) on commercial outcomes.
 * **Interactivity Framework**: Dynamic Dashboard Actions were integrated to allow for seamless cross-filtering between temporal trends and categorical performance.
+**Python (Pandas/NumPy)**: Performed correlation analysis and automated KPI validation scripts.
 
 
 ## Key Performance Outcomes
