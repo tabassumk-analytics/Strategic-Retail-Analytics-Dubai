@@ -1,4 +1,4 @@
-###Strategic Retail Intelligence: Executive Analysis (2025-2026)###
+**Strategic Retail Intelligence: Executive Analysis (2025-2026)**
 
 **Executive Summary**
 This project delivers a High-Impact Business Intelligence (BI) framework designed to deconstruct the performance of premium retail assets within the competitive UAE landscape. By synthesizing environmental data with seasonal commercial cycles, this analysis identifies how external catalysts—specifically extreme heat indices and the Dubai Shopping Festival (DSF)—directly influence consumer migration and revenue capture.
